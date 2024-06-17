@@ -4,6 +4,6 @@ At each level a box got pressed by the computer you have to remember the orderin
 
 I use 
  
- HTML- for static content on the screen 
- CSS-for the style      
- JS-to give animation on the fly 
+ HTML- for static content on the screen      
+ CSS- for the style   
+ JS- to give animation on the fly  
